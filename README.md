@@ -18,3 +18,5 @@ Projenin konsept senaryosu **"Güvenli Mahalle ve Çocuk Takibi"** üzerine kurg
 * `mahalle_bekcisi.py`: Modelin eğitildiği ve canlı izleme panelinin çalıştığı ana kaynak kod.
 * `mahalle.png`: Radar ekranının arka planında kullanılan harita referansı.
 * `requirements.txt`: Sistemin çalışması için gereken Python bağımlılıkları.
+
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/35461cc0-d991-4043-9096-7608cb56aa17" />
